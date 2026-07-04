@@ -22,9 +22,9 @@
 
 ### About
 
-I'm drawn to the process of turning raw, messy data into something that actually informs a decision — cleaning it, modeling it, and figuring out what it's really trying to say. That interest extends naturally into machine learning and AI, where I enjoy understanding not just how a model performs, but why.
+I'm drawn to the process of turning raw, messy data into something that actually informs a decision cleaning it, modeling it, and figuring out what it's really trying to say. That interest extends naturally into machine learning and AI, where I enjoy understanding not just how a model performs, but why.
 
-Alongside that, I build full-stack applications to put those ideas into something usable — currently working on an AI-powered study assistant as part of my final year project.
+Alongside that, I build full-stack applications to put those ideas into something usable currently working on an AI-powered study assistant as part of my final year project.
 
 </td>
 <td width="45%">
